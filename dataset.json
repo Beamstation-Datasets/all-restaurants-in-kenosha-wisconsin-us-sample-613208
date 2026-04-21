@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Kenosha, Wisconsin. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Kenosha, Wisconsin, US",
-  "export_job_id": "e8ab3a96-921b-4ef9-936f-0d0edff2c977",
+  "export_job_id": "3fe3dbac-9aed-4dc2-824a-c3969f7c2d60",
   "github_org": "Beamstation-Datasets",
   "id_short": 613208,
   "location_name": "Kenosha",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-kenosha-wisconsin-us-sample-613208",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/613208/beamstation_613208_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 33,
-  "sample_sha256": "b9e165763d03967d8af0c86f11877a386e32097662cd68d1242bc979eb60df5c",
-  "sample_size_bytes": 127490,
-  "total_records": 330,
-  "updated_at": "2026-04-14T15:49:38.842869+00:00"
+  "sample_records": 15,
+  "sample_sha256": "fdc332a1f3963a169f4e108fdb8a1bb28dab9675134fabf5d431564cda51b15c",
+  "sample_size_bytes": 63063,
+  "total_records": 150,
+  "updated_at": "2026-04-21T17:07:43.239907+00:00"
 }
