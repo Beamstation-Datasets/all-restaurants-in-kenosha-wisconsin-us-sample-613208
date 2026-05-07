@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4225fad6-3091-4fa2-80ab-c3e8a5e9ea08",
+  "export_job_id": "09611c7d-a1b4-4fad-ab01-ac3c7ba74346",
   "id_short": 613208,
-  "published_at": "2026-04-28T19:53:59Z",
+  "published_at": "2026-05-07T07:16:46Z",
   "repo_name": "all-restaurants-in-kenosha-wisconsin-us-sample-613208",
   "sample_asset_name": "beamstation_613208_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/613208/beamstation_613208_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "9b4a292b1c159f22a2ea0f5a471e47b65118ce46888aec5768c3dd09d69cd912",
-  "sample_size_bytes": 129187,
-  "total_records": 329
+  "sample_records": 33,
+  "sample_sha256": "ce91b60cc28065f842543ec976da84785050962ebfb8b812df1862867dc932e3",
+  "sample_size_bytes": 125747,
+  "total_records": 339
 }
