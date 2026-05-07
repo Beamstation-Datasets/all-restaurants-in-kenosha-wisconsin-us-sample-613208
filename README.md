@@ -1,6 +1,6 @@
 # All Restaurants in Kenosha, Wisconsin, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `613208` |
 | Location | Kenosha |
 | Category | Restaurants |
-| Full dataset size | 329 records |
-| Free sample size | 32 records (9.73%) |
-| Last export | 2026-04-28T18:09:58.840949+00:00 |
+| Full dataset size | 339 records |
+| Free sample size | 33 records (9.73%) |
+| Last export | 2026-05-07T01:38:53.016108+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kenosha-wisconsin-us-sample-613208/releases/download/sample-latest/beamstation_613208_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
